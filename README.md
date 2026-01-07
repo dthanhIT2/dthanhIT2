@@ -1,27 +1,24 @@
-# IT-E6 K69 HUST
+# IT2 K69 HUST
 
 ---
 
 ## 🌟 About Me | Giới thiệu
 
-👋 Hi, I'm **Khanh Dong Gia**  
-🇻🇳 Đồng Gia Khánh (Vietnam) ⭐ トン・ジャ・カイン (Japan)
+👋 Hi, I'm **Đặng Phú Thành**  
+🇻🇳 Đặng Phú Thành (Vietnam) ⭐ トン・ジャ・カイン (Japan)
 
-🎓 I'm a student of **IT-E6 – Vietnam–Japan Information Technology**,  
+🎓 I'm a student of IT2 - Computer Engineering  ,  
 **Hanoi University of Science and Technology (HUST)**  
 
 🤖 I’m interested in **Artificial Intelligence (AI)**,  
 **Software Engineering**, and **Application Development**
 
 ⚽ My hobbies include football, badminton, coding, and listening to music  
-🎵 I enjoy **V-pop** and **US–UK music**
 
 🌍 Languages:
 - Vietnamese (Native)
-- English (Intermediate–Advanced)
-- Japanese / 日本語 (Basic–Intermediate)
+- English (Advanced)
 
----
 
 ## 💻 Tech Stack
 
@@ -77,7 +74,7 @@
 ---
 
 ## 📫 Contact
-📧 Email: your-email@example.com  
+📧 Email:  
 🌐 GitHub: https://github.com/YOUR_USERNAME
 
 ---
